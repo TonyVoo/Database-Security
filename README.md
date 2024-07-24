@@ -44,6 +44,8 @@ To set up the backend of the project, follow these steps:
 ```
 To set up the frontend of the project, follow these steps:
 1. Run the frontend in a third terminal
+```bash
    npm run serve
+```
 Warning: Because of CORS policies, we have to use this code to open chrome
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --disable-web-security --disable-gpu --user-data-dir=~/chromeTemp
